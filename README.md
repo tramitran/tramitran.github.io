@@ -2,3 +2,4 @@
 
 <img src="img/black-bishop.png">
 <img src="img/black-castle.png">
+![](img/black-bishop.png)
