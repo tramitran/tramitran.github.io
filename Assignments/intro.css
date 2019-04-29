@@ -4,7 +4,7 @@
 }
 
 
-      h1 {
+      h1, title {
         color:blue;
         text-align: center;
         font-family:'DancingScriptRegular';
@@ -27,21 +27,6 @@
       }
       i { color:darkgreen
       }	
-#title {  
-      position:fixed;
-      top:0px;
-      left:0px;
-      padding:10px;
-      margin:0px;
-      width:100%; 
-      text-align:center;
-      z-index:10;
-      font-family:'DancingScriptRegular'; 
-      font-weight: normal; 
-      font-style: normal; 
-      font-size:36px; 
-}
-
 
      
 
