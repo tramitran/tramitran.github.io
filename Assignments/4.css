@@ -19,7 +19,7 @@ main {
 		overflow: auto;}
 
 			
-article3{
+.column3{
 	 margin-right: 0%;}
 			
 li {
@@ -34,29 +34,26 @@ section{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
 	    background-color: lightyellow;}
-article1{
+.column1{
   background-color:lightblue;
   width: 31.3%;
   float: left;
   margin: 1%
 }
-article2{
+.column2{
   background-color:lightgreen;
   width: 31.3%;
   float: left;
   margin: 1%
 }
-article3{
+.column3{
   background-color:pink;
   width: 31.3%;
   float: left;
   margin: 1%
  
 }
-img {
- margin-left: 5px;
- margin-top:10px;
-}
+
 section{
  background-color:lightyellow;
  background-image: url("http://www.clker.com/cliparts/d/T/T/w/U/M/spring-md.png");
