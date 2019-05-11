@@ -1,0 +1,69 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color:gray;
+	text-align: center;}
+body {
+	width: 90%;
+	margin: 0 auto;
+    background-image: url("http://backgrounddownload.com/wp-content/uploads/2018/09/cute-wall-background-6.jpg");
+}
+h1 { 
+   font-family: 'YantiqRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+ 
+}
+  
+
+main {
+		overflow: auto;}
+
+			
+.column3{
+	 margin-right: 0%;}
+			
+li {
+				
+	display: inline;
+	padding: 0.5em;}
+nav ul{  margin: 1%;
+		background-color:pink;
+		padding: 0.5em 0;}
+			
+section{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white;}
+.column1{
+  background-color:pink;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+}
+.column2{
+  background-color:white;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+}
+.column3{
+  background-color:pink;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+ 
+}
+
+section{
+ background-color: white;
+ background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38a7a2ad-4568-4934-9916-b44cdffb89d0/dbjj0ef-3a2155aa-dd7c-4e8f-8af8-fae102e62dcf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4YTdhMmFkLTQ1NjgtNDkzNC05OTE2LWI0NGNkZmZiODlkMFwvZGJqajBlZi0zYTIxNTVhYS1kZDdjLTRlOGYtOGFmOC1mYWUxMDJlNjJkY2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._WuHcihbOfaYR4grqNYzwwOiTBcGS4Hd-uaGvIRMbIg");
+ background-size:contain;
+ background-position:center;
+ background-repeat:no-repeat;}
+
+footer {
+  background-color;
+  padding: 0.5em 0;
+  margin: 1%  
+  
+}
