@@ -1,0 +1,49 @@
+title>Liquid Layout</title>
+</head>
+	<body>
+      
+		<header>
+			<h1>Trami Tran</h1>
+      </header>
+			<nav>
+				<ul>
+					<li><a href="">Home</a></li>
+					<li><a href="">Coursework</a></li>
+					<li><a href="">Artifacts</a></li>
+					<li><a href="">Creative T</a></li>
+					<li><a href="">About Me</a></li>
+                  <li><a href="">Contact Me</a></li>
+				</ul>
+              </nav>
+			
+		
+		<main>
+          
+			<section>
+				<p></p>
+      </section>
+      
+			<article class="column1">
+				<p></p>
+			</article>
+			<article class="column2">
+				<p>Column Two</p>
+			</article>
+			<article class="column3">
+				<p>Column Three</p>
+			</article>
+         
+		</main>
+		<footer>
+			<p>&copy; Copyright 2011</p>
+		</footer>
+      
+	</body>
+</html>
+
+
+
+
+
+
+
