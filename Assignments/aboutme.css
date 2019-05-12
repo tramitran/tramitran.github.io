@@ -1,0 +1,69 @@
+* {
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;}
+body {
+	width: 90%;
+	margin: 0 auto;
+    background-image: url("https://dumielauxepices.net/sites/default/files/dandelion-clipart-transparent-background-497781-2406271.png");
+}
+h1 { 
+   font-family: 'YantiqRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+ 
+}
+  
+
+main {
+		overflow: auto;}
+
+			
+.column3{
+	 margin-right: 0%;}
+			
+li {
+				
+	display: inline;
+	padding: 0.5em;}
+nav ul{  margin: 1%;
+		background-color:orange;
+		padding: 0.5em 0;}
+			
+section{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color: lightyellow;}
+.column1{
+  background-color:lightblue;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+}
+.column2{
+  background-color:lightgreen;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+}
+.column3{
+  background-color:pink;
+  width: 31.3%;
+  float: left;
+  margin: 1%
+ 
+}
+
+section{
+ background-color:lightyellow;
+ background-image: url("http://www.clker.com/cliparts/d/T/T/w/U/M/spring-md.png");
+ background-size:contain;
+ background-position:center;
+ background-repeat:no-repeat;}
+
+footer {
+  background-color:orange;
+  padding: 0.5em 0;
+  margin: 1%  
+  
+}
