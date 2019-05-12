@@ -37,14 +37,14 @@ section{ margin: 1%;
 		margin-bottom: 1em;
 	    background-color:white;}
 			
-.homepage{ margin: 1%;
+.aboutme{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
 	    background-color:pink;
         color: white; 
         text-align:center;}
 
-.welcome{
+.tr{
  background-color:white;
  background-size:contain;
  background-position:center;
