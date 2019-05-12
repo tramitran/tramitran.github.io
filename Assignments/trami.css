@@ -39,21 +39,17 @@ section{ margin: 1%;
 	height:500px;		
 }
 			
-.main{ margin: 1%;
+.video margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
 	    background-color:white
         text-align:center;}
 
-.artifact{
+.img{
  background-color:white;
  background-size:contain;
  background-position:center;
- background-repeat:no-repeat;}
-
-footer {
-  background-color;
-  padding: 0.5em 0;
-  margin: 1%  
-  
+  background-repeat:no-repeat;
 }
+
+
