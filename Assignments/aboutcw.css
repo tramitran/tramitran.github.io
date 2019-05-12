@@ -1,0 +1,57 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color:black;
+	text-align: center;}
+body {
+	width: 90%;
+	margin: 0 auto;
+    background-image:url("http://backgrounddownload.com/wp-content/uploads/2018/09/cute-wall-background-6.jpg");
+}
+h1 {
+   font-family: 'ThaoSaoRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+   color:  
+}
+ 
+}
+  
+
+main {
+		overflow: auto;
+        
+        }
+
+			
+li {
+				
+	display: inline;
+	padding: 0.5em;}
+nav ul{  margin: 1%;
+		background-color:pink;
+		padding: 0.5em 0;
+        color:black;}
+			
+section{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white;}
+			
+.main{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white
+        text-align:center;}
+
+.artifact{
+ background-color:white;
+ background-size:contain;
+ background-position:center;
+ background-repeat:no-repeat;}
+
+footer {
+  background-color;
+  padding: 0.5em 0;
+  margin: 1%  
+  
+}
