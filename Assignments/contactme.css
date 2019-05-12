@@ -1,146 +1,59 @@
-html {
-  background-image: url("https://c1.staticflickr.com/5/4360/36563932652_e8ba2cfc27_b.jpg");
-  background-size: cover;
-  height: 100%;
-  overflow: hidden;
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color:gray;
+	text-align: center;}
+body {
+	width: 90%;
+	margin: 0 auto;
+    background-image:url("http://backgrounddownload.com/wp-content/uploads/2018/09/cute-wall-background-6.jpg");
 }
-body { 
-  font-family: Times, sans-serif;
-  margin: 0;
-  padding: 0; 
-  background: #f9c0f3;
-  color: #3f3f3f;
-  font-size: 16px;
-  line-height: 24px;
-  height: auto;
+h1 {
+   font-family: 'ThaoSaoRegular'; 
+   font-weight: normal; 
+   font-style: normal; 
+   color:  
 }
-
-a { color: #000088; }
-a:hover { color: #880000; }
-
-#wrap { 
-  margin: 40px auto;
-  width: 940px;
-  background: #fff;
-
-  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  -webkit-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
+ 
 }
+  
 
-#header {
-  -webkit-border-top-left-radius: 10px;
-  -webkit-border-top-right-radius: 10px;
-  -moz-border-radius-topleft: 10px;
-  -moz-border-radius-topright: 10px;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
+main {
+		overflow: auto;
+        
+        }
 
-  background: #f9f9f9;
-  padding: 20px 0 40px 0;
-}
-#header h1 {
-  margin: 0;
-  padding: 0 0 0 30px;
-  font-weight: bold;
-  color: #3f3f3f;
-  font-size: 38px;
-  line-height: 65px;
-  letter-spacing: -1px;
-}
-#header h2 {
-  -webkit-border-radius: 10px;
-  -moz-border-radius: 10px;
-  border-radius: 10px;
-  margin: 0 0 0 20px; 
-  padding: 5px 12px;
-  font-weight: normal;
-  color: #171717;
-  font-size: 22px;
-  letter-spacing: -1px;
-  background: #910054;
-  border: 1px solid #51002f;
-  display: inline;
-}
+			
+li {
+				
+	display: inline;
+	padding: 0.5em;}
+nav ul{  margin: 1%;
+		background-color:pink;
+		padding: 0.5em 0;
+        color:black;}
+			
+section{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white;}
+			
+.homepage{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:pink;
+        color: white; 
+        text-align:center;}
 
-#topmenu {
-  background: #f1f1f1;
-  padding: 10px 20px;
-  border-bottom: 1px solid #e1e1e1;
-  border-top: 1px solid #e1e1e1;
-}
-#topmenu ul { margin: 0; padding: 0; list-style-type: none;}
-#topmenu li { display: inline; padding: 0 20px 0 0 }
-#topmenu li a { text-decoration: none; 
-}
+.welcome{
+ background-color:white;
+ background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/38a7a2ad-4568-4934-9916-b44cdffb89d0/dbjj0ef-3a2155aa-dd7c-4e8f-8af8-fae102e62dcf.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM4YTdhMmFkLTQ1NjgtNDkzNC05OTE2LWI0NGNkZmZiODlkMFwvZGJqajBlZi0zYTIxNTVhYS1kZDdjLTRlOGYtOGFmOC1mYWUxMDJlNjJkY2YucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0._WuHcihbOfaYR4grqNYzwwOiTBcGS4Hd-uaGvIRMbIg");
+ background-size:contain;
+ background-position:center;
+ background-repeat:no-repeat;}
 
-.search { float: right; }
-
-#content { float: left; width: 580px; margin: 10px 0 40px 20px;}
-#content h2 { font-weight: normal; font-size: 22px; line-height: 33px; }
-
-#footer { 
-  -webkit-border-bottom-right-radius: 10px;
-  -webkit-border-bottom-left-radius: 10px;
-  -moz-border-radius-bottomright: 10px;
-  -moz-border-radius-bottomleft: 10px;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-
-  background: #910054;
-  color: #fff;
-  padding: 20px;
-  border-top: 1px solid #1f1f1f;
-}
-#footer a { color: #fff; text-decoration: none; border-bottom: 1px dotted #fff; }
-#footer a:hover { border-bottom: 1px dotted #ccc; }
-
-.left { float: left; }
-.right { float: right; }
-.clear { clear: both; }
-orm {
-  /* Just to center the form on the page */
-  margin: 0 auto;
-  width: 400px;
-  /* To see the outline of the form */
-  padding: 1em;
-  border: 1px solid #CCC;
-  border-radius: 1em;
-}
-
-form div + div {
-  margin-top: 1em;
-}
-
-label {
-  display: inline-block;
-  width: 90px;
-  text-align: right;
-}
-
-input, textarea {
-  font: 1em sans-serif;
-  width: 300px;
-  box-sizing: border-box;
-  border: 1px solid #999;
-}
-
-input:focus, textarea:focus {
-  border-color: #000;
-}
-
-textarea {
-  vertical-align: top;
-  height: 5em;
-}
-
-.button {
-  padding-left: 90px;
-}
-
-button {
-  margin-left: .5em;
+footer {
+  background-color;
+  padding: 0.5em 0;
+  margin: 1%  
+  
 }
