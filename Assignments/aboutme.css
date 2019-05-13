@@ -19,6 +19,7 @@ h1 {
 
 main {
 		overflow: auto;
+        background-color:white;
         
         }
 
@@ -37,18 +38,20 @@ section{ margin: 1%;
 		margin-bottom: 1em;
 	    background-color:white;}
 			
-.aboutme{ margin: 1%;
+.tr{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
 	    background-color:white;
         color: white; 
         text-align:center;}
 
-.aboutme{
- background-color:white;
- background-size:contain;
- background-position:center;
- background-repeat:no-repeat;}
+.{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white;
+        color: white; 
+        text-align:center;}
+
 
 footer {
   background-color;
