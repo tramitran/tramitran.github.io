@@ -1,6 +1,6 @@
 *{
 	font-family: Arial, Verdana, sans-serif;
-	color:gray;
+	color:black;
 	text-align: center;}
 body {
 	width: 90%;
@@ -11,15 +11,14 @@ h1 {
    font-family: 'ThaoSaoRegular'; 
    font-weight: normal; 
    font-style: normal; 
-   color:  
+     
 }
  
-}
-  
+
 
 main {
 		overflow: auto;
-        background-color:white;
+        background:white;
         
         }
 
@@ -29,26 +28,26 @@ li {
 	display: inline;
 	padding: 0.5em;}
 nav ul{  margin: 1%;
-		background-color:pink;
+		background:pink;
 		padding: 0.5em 0;
         color:black;}
 			
 section{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;}
+	    background:white;}
 			
 .tr{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;
+	    background:white;
         color: white; 
         text-align:center;}
 
 .{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;
+	    background:white;
         color: white; 
         text-align:center;}
 
