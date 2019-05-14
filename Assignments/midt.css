@@ -11,10 +11,9 @@ h1 {
    font-family: 'ThaoSaoRegular'; 
    font-weight: normal; 
    font-style: normal; 
-   color:  
+
 }
  
-}
   
 
 main {
@@ -28,19 +27,19 @@ li {
 	display: inline;
 	padding: 0.5em;}
 nav ul{  margin: 1%;
-		background-color:pink;
-		padding: 0.5em 0;
+	background:pink;
+	padding: 0.5em 0;
         color:black;}
 			
 section{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;}
+	    background:white;}
 			
 .homepage{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:pink;
+	    background:pink;
         color: white; 
         text-align:center;}
 
@@ -51,8 +50,8 @@ section{ margin: 1%;
  background-position:center;
  background-repeat:no-repeat;}
 
-footer {
-  background-color;
+#footer {
+ 
   padding: 0.5em 0;
   margin: 1%  
   
