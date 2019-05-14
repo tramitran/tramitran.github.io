@@ -11,10 +11,10 @@ h1 {
    font-family: 'ThaoSaoRegular'; 
    font-weight: normal; 
    font-style: normal; 
-   color:  
+   
 }
  
-}
+
   
 
 main {
@@ -28,25 +28,25 @@ li {
 	display: inline;
 	padding: 0.5em;}
 nav ul{  margin: 1%;
-		background-color:pink;
+		background:pink;
 		padding: 0.5em 0;
         color:black;}
 			
 section{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;
+	    background:white;
 	   height:500px;		
 }
 			
 .main{ margin: 1%;
 		height: 10em;
         margin-bottom: 1em;
-	background-color:white
+	background:white;
         text-align:center;}
 
 .artifact{
- background-color:white;
+ background:white;
  background-size:contain;
  background-position:center;
  background-repeat:no-repeat;
@@ -54,7 +54,7 @@ section{ margin: 1%;
 	
 	}
 
-footer {
+#footer {
   background-color;
   padding: 0.5em 0;
   margin: 1%  
