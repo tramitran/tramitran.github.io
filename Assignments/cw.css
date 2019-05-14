@@ -13,7 +13,7 @@ h1 {
    font-style: normal; 
 }
  
-}
+
   
 
 main {
@@ -27,19 +27,19 @@ li {
 	display: inline;
 	padding: 0.5em;}
 nav ul{  margin: 1%;
-		background-color:pink;
+		background:pink;
 		padding: 0.5em 0;
         color:black;}
 			
 section{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white;}
+	    background:white;}
 			
 .main{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
-	    background-color:white
+	    background:white;
         text-align:center;}
 
 
@@ -51,8 +51,6 @@ section{ margin: 1%;
  height:400px; }
 
 #footer {
-  background-color;
   padding: 0.5em 0;
   margin: 1%  
 }
-
