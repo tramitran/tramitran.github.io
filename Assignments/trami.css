@@ -14,7 +14,7 @@ h1 {
    
 }
  
-}
+
   
 
 main {
@@ -32,26 +32,12 @@ nav ul{  margin: 1%;
 		padding: 0.5em 0;
         color:black;}
 			
-.aboutme{ margin: 1%;
-	height: 10em;
-	 margin-bottom: 1em;
-	 background-color:white;
-	height:700px;		
+#aboutme{
+   margin: 1%;
+   height: 10em;
+   margin-bottom: 1em;
+   background-color:white;
+  height:700px;
+		
 }
 	
-}
-			
-.t{ margin: 1%;
-	height: 10em;
-	 margin-bottom: 1em;
-	 background-color:white;
-	height:500px;		
-}
-
-.img{
- background-color:white;
- background-size:contain;
- background-position:center;
-  background-repeat:no-repeat;
-}
-
