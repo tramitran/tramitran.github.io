@@ -24,3 +24,10 @@ clear: both;
 .sspace{
   color:white;
 }
+input:invalid {
+  border:2px dashed red;
+}
+
+input:invalid{
+  border 2px solid black;
+}
