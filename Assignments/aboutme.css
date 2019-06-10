@@ -18,7 +18,7 @@ h1 {
   
 
 main {
-		overflow: auto;
+		
         background:white;
         
         }
@@ -34,9 +34,11 @@ nav ul{  margin: 1%;
         color:black;}
 			
 section{ margin: 1%;
-		height: 10em;
+		height: 50em;
 		margin-bottom: 1em;
-	    background:white;}
+	    background:white;
+        text-align:center;}
+
 			
 .tr{ margin: 1%;
 		height: 10em;
@@ -57,5 +59,3 @@ section{ margin: 1%;
   
   padding: 0.5em 0;
   margin: 1%  
-  
-}
