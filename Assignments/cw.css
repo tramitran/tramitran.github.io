@@ -11,15 +11,17 @@ h1 {
    font-family: 'ThaoSaoRegular'; 
    font-weight: normal; 
    font-style: normal; 
+     
 }
  
-
-  
-
 main {
-		background:white;
+		
+        background:white;
+
         
         }
+
+
 
 			
 li {
@@ -36,21 +38,24 @@ section{ margin: 1%;
 		margin-bottom: 1em;
 	    background:white;}
 			
-.main{ margin: 1%;
+.tr{ margin: 1%;
 		height: 10em;
 		margin-bottom: 1em;
 	    background:white;
+        color: white; 
+        text-align:center;}
+
+.{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background:white;
+        color: white; 
         text-align:center;}
 
 
-.artifact{
- background-color:white;
- background-size:contain;
- background-position:center;
- background-repeat:no-repeat;
- height:400px; }
-
-#footer {
+footer {
+  background-color;
   padding: 0.5em 0;
   margin: 1%  
+  
 }
