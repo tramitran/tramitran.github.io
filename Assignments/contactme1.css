@@ -52,7 +52,13 @@ section{ margin: 1%;
 	    background:white;
         color: white; 
         text-align:center;}
-
+.smiley{
+ background-color:white;
+ background-image: url("https://i.etsystatic.com/10170765/r/il/b42269/1178005112/il_794xN.1178005112_6zc0.jpg");
+ background-size:contain;
+ background-position:center;
+ background-repeat:no-repeat;}
+	
 
 #footer {
   
