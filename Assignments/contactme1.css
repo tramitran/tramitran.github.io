@@ -11,13 +11,15 @@ h1 {
    font-family: 'ThaoSaoRegular'; 
    font-weight: normal; 
    font-style: normal; 
+ 
 }
  
 
   
 
 main {
-		overflow: auto;
+		
+        background:white;
         
         }
 
@@ -25,26 +27,35 @@ main {
 li {
 				
 	display: inline;
-	padding: 0.5em;
-}
-nav ul{ margin: 1%;
+	padding: 0.5em;}
+nav ul{  margin: 1%;
 		background:pink;
 		padding: 0.5em 0;
-        color:black;
-		
-}
+        color:black;}
 			
-#content{ margin: 1%;
-		height: 10em;
-		margin-bottom:5em;
+section{ margin: 1%;
+		height: 50em;
+		margin-bottom: 1em;
 	    background:white;
-        height:300px;
- 
-}
+        text-align:center;}
+
 			
+.tr{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background-color:white;
+        color: white; 
+        text-align:center;}
+
+.{ margin: 1%;
+		height: 10em;
+		margin-bottom: 1em;
+	    background:white;
+        color: white; 
+        text-align:center;}
+
+
 #footer {
   
   padding: 0.5em 0;
   margin: 1%  
-  
-}
