@@ -1,22 +1,21 @@
-//Show the current date and time
-var todaydate = new Date();
+var currentDate = new Date(),
+    day = currentDate.getDate(),
+    month = currentDate.getMonth() + 1,
+    year = currentDate.getFullYear();
+//document.write(day + "/" + month + "/" + year)
+var currentTime = new Date(),
+    hours = currentTime.getHours(),
+    minutes = currentTime.getMinutes();
 
-var dd = todaydate.getDate();
-var mm = todaydate.getMonth()+1;
-var yyyy = todaydate.getFullYear();
+if (minutes < 10) {
+  minutes = "0" + minutes;
+}
 
-if(dd<10) {
-    dd = '0'+dd
-} 
+//document.write(hours + ":" + minutes)
 
-if(mm<10) {
-    mm = '0'+mm
-} 
 
-var hour = todaydate.getHours();
-var minutes = todaydate.getMinutes();
-var seconds = todaydate.getSeconds();
 
-todaydate = mm + '/' + dd + '/' + yyyy + ' ' + hour + ':' + minutes + ':' + seconds;
-
-document.getElementById("currentDateTime").innerHTML = todaydate;
+var showdate = document.getElementById("demo").innerHTML;
+//showdate.style.color= "red";
+//showdate.textContent= day + "/" + month + "/" + year;
+document.getElementById("demo").innerHTML= day + "/" + month + "/" + year + "  " + hours + ":" + minutes;
